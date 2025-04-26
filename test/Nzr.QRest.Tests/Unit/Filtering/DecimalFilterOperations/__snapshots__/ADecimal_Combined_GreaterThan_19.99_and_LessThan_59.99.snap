@@ -1,0 +1,24 @@
+﻿[
+  {
+    "AShort": 2,
+    "ANullableShort": null,
+    "AInt": 2,
+    "ANullableInt": null,
+    "ALong": 2,
+    "ANullableLong": null,
+    "ADouble": 29.99,
+    "ANullableDouble": null,
+    "ADecimal": 29.99,
+    "ANullableDecimal": null,
+    "AString": "abc xyz",
+    "ANullableString": null,
+    "AEnum": "Active",
+    "ANullableEnum": null,
+    "ABoolean": true,
+    "ANullableBoolean": null,
+    "ADateTimeOffset": "2024-09-02T01:00:00+02:00",
+    "ANullableDateTimeOffset": null,
+    "ADateTime": "2024-09-02T01:00:00",
+    "ANullableDateTime": null
+  }
+]

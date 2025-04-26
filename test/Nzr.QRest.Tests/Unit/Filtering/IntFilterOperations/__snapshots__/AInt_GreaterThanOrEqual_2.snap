@@ -1,0 +1,24 @@
+﻿[
+  {
+    "AShort": 5,
+    "ANullableShort": null,
+    "AInt": 5,
+    "ANullableInt": null,
+    "ALong": 5,
+    "ANullableLong": null,
+    "ADouble": 49.99,
+    "ANullableDouble": null,
+    "ADecimal": 99.99,
+    "ANullableDecimal": null,
+    "AString": "klm opq",
+    "ANullableString": null,
+    "AEnum": "Active",
+    "ANullableEnum": null,
+    "ABoolean": true,
+    "ANullableBoolean": null,
+    "ADateTimeOffset": "2024-11-25T14:00:00+02:00",
+    "ANullableDateTimeOffset": null,
+    "ADateTime": "2024-11-25T14:00:00",
+    "ANullableDateTime": null
+  }
+]
